@@ -54,12 +54,11 @@
 ## Stats📈
 
 <p align="center">
-<!-- <img width="88%" src="https://github-readme-activity-graph.cyclic.app/graph?username=R3ddy95&theme=react-dark&hide_border=true"> -->
-<img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=R3ddy95&theme=react-dark&hide_border=true">
-<!-- <img width="88%" src="https://github-readme-activity-graph.R3ddy95.repl.co/graph?username=R3ddy95&theme=react-dark&hide_border=true"> -->
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R3ddy95&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&exclude_repo=Jekyll-Default-Website&border_radius=10&bg_color=0D1117" alt="R3ddy95" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=R3ddy95&theme=react&hide_border=true&include_all_commits=true&count_private=true&line_height=30&show_icons=true&custom_title=Github%20Stats&border_radius=10&bg_color=0D1117" alt="R3ddy95" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=R3ddy95&theme=react&hide_border=true&count_private=true&line_height=30&show_icons=true&custom_title=Github%20Stats&border_radius=10&bg_color=0D1117" alt="R3ddy95" />
+<img width="88%" src="https://github-readme-activity-graph.cyclic.app/graph?username=R3ddy95&theme=react-dark&hide_border=true">
+<img width="88%" src="https://github-readme-activity-graph.R3ddy95.repl.co/graph?username=R3ddy95&theme=react-dark&hide_border=true">
     
+<img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=R3ddy95&theme=react-dark&hide_border=true">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R3ddy95&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&exclude_repo=Jekyll-Default-Website&border_radius=10&bg_color=0D1117" alt="R3ddy95" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=R3ddy95&theme=react&hide_border=true&include_all_commits=true&count_private=true&line_height=30&show_icons=true&custom_title=Github%20Stats&border_radius=10&bg_color=0D1117" alt="R3ddy95" /> 
 <img width="48%" src="https://streak-stats.demolab.com/?user=R3ddy95&theme=react&hide_border=true&background=0D1117" alt="R3ddy95" />
 </p>
