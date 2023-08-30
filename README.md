@@ -54,8 +54,8 @@
 ## Stats📈
 
 <p align="center">
-<img width="88%" src="https://github-readme-activity-graph.cyclic.app/graph?username=R3ddy95&theme=react-dark&hide_border=true">
-<img width="88%" src="https://github-readme-activity-graph.R3ddy95.repl.co/graph?username=R3ddy95&theme=react-dark&hide_border=true">
+<img width="88%" src="https://github-readme-activity-graph.app/graph?username=R3ddy95&theme=react-dark&hide_border=true">
+<img width="88%" src="https://github-readme-activity-graph.repl.co/graph?username=R3ddy95&theme=react-dark&hide_border=true">
     
 <img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=R3ddy95&theme=react-dark&hide_border=true">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R3ddy95&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&exclude_repo=Jekyll-Default-Website&border_radius=10&bg_color=0D1117" alt="R3ddy95" /> 
