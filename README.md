@@ -3,7 +3,6 @@
 <meta name="keyword" content="Edoardo Vitagliano, Edo, Reddy, Edoardo Vitagliano Github, Github, R3ddy95, R3ddy95 Github">
 
 <h1 align="center">Hi, I'm Edoardo Vitagliano 👋
-<!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" height = "30px"> -->
 </h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=R3ddy95&label=Profile%20views&color=1c87ca&style=flat" alt="edoardovitagliano" /> </p>
 
@@ -16,10 +15,6 @@
 </ul>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://www.linkedin.com/in/edoardo-vitagliano-299737110/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="-sahibsingh-" height="30" width="40" /></a>
-    <a href="https://www.instagram.com/edo.vitagliano/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ssahibsingh_" height="30" width="40" /></a>
-</p>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/edo.vitagliano/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edoardo-vitagliano-299737110/)
 
